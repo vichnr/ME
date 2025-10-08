@@ -1,0 +1,101 @@
+id,gostos
+1,"['Moda', 'Ciência']"
+2,"['História', 'Games', 'Viagem']"
+3,"['Cinema', 'Natureza']"
+4,"['Natureza', 'Futebol']"
+5,"['Política', 'Dança', 'Viagem', 'Natureza']"
+6,"['Leitura', 'Ciência', 'História', 'Política', 'Natureza']"
+7,['Carros']
+8,"['História', 'Games']"
+9,"['Carros', 'Fotografia', 'Arte']"
+10,"['Fotografia', 'Leitura', 'Culinária']"
+11,"['Viagem', 'Teatro', 'História', 'Games']"
+12,"['Moda', 'Cinema', 'Fotografia']"
+13,"['Ciência', 'Arte']"
+14,['Tecnologia']
+15,"['Teatro', 'Música', 'Dança', 'Tecnologia', 'História']"
+16,"['Games', 'Viagem', 'Pets']"
+17,"['Política', 'Dança', 'Futebol', 'Cinema', 'Arte']"
+18,"['Pets', 'Leitura', 'Carros', 'Viagem', 'Tecnologia']"
+19,['História']
+20,"['Culinária', 'Tecnologia', 'Natureza', 'Moda']"
+21,['Arte']
+22,"['Ciência', 'Teatro', 'Cinema', 'Fotografia', 'História']"
+23,['Games']
+24,['Tecnologia']
+25,"['Natureza', 'Dança', 'Cinema']"
+26,"['Pets', 'Política', 'Natureza', 'Leitura']"
+27,"['Tecnologia', 'Dança', 'Futebol', 'Arte']"
+28,"['Música', 'Esportes', 'Dança', 'Carros', 'Tecnologia']"
+29,"['Arte', 'Fotografia', 'Carros']"
+30,"['Pets', 'Tecnologia', 'Natureza', 'Dança']"
+31,"['Cinema', 'Tecnologia']"
+32,"['Carros', 'Música', 'Ciência', 'História', 'Arte']"
+33,"['Teatro', 'Leitura']"
+34,"['Pets', 'Carros', 'Viagem', 'Dança']"
+35,"['Política', 'Futebol', 'Teatro', 'Viagem', 'Ciência']"
+36,"['História', 'Pets', 'Natureza']"
+37,"['Games', 'Culinária']"
+38,['Música']
+39,"['Moda', 'Culinária', 'História']"
+40,['Esportes']
+41,"['Carros', 'Teatro', 'Pets']"
+42,['Leitura']
+43,"['Carros', 'Esportes', 'Culinária', 'Música']"
+44,['Futebol']
+45,"['Natureza', 'Carros']"
+46,['Culinária']
+47,"['Culinária', 'Leitura', 'Natureza', 'Fotografia']"
+48,"['Ciência', 'Viagem', 'Política', 'Música']"
+49,"['Fotografia', 'Viagem']"
+50,"['Moda', 'Teatro', 'Esportes', 'Culinária']"
+51,['Política']
+52,"['Arte', 'Natureza', 'Teatro', 'Moda']"
+53,['Games']
+54,"['Arte', 'Games', 'Música']"
+55,['Leitura']
+56,"['Esportes', 'Tecnologia', 'Games', 'Música', 'Futebol']"
+57,"['Fotografia', 'Tecnologia', 'Natureza']"
+58,"['Esportes', 'Teatro']"
+59,"['Tecnologia', 'Arte', 'Cinema']"
+60,"['Teatro', 'História', 'Moda', 'Tecnologia']"
+61,"['Arte', 'Teatro', 'História']"
+62,"['Dança', 'Ciência', 'História', 'Pets']"
+63,"['Política', 'Leitura', 'Futebol']"
+64,"['Viagem', 'Teatro', 'Música']"
+65,"['Arte', 'Ciência', 'Leitura', 'Natureza']"
+66,"['Cinema', 'Fotografia', 'Moda', 'Natureza']"
+67,"['Natureza', 'Arte', 'Viagem', 'Culinária']"
+68,"['Leitura', 'Games', 'Carros']"
+69,"['Música', 'História', 'Natureza']"
+70,"['Dança', 'Futebol', 'História']"
+71,['Música']
+72,"['Carros', 'Esportes', 'História', 'Arte', 'Música']"
+73,"['Dança', 'Culinária']"
+74,"['Moda', 'Fotografia', 'Tecnologia']"
+75,"['Teatro', 'Leitura', 'Arte', 'Política']"
+76,"['Política', 'Games', 'Culinária', 'Fotografia']"
+77,"['Games', 'Viagem', 'Culinária']"
+78,"['Ciência', 'Dança']"
+79,"['História', 'Música', 'Cinema', 'Natureza', 'Moda']"
+80,"['Ciência', 'Esportes', 'Leitura', 'Carros']"
+81,['Natureza']
+82,"['Natureza', 'Games', 'Teatro']"
+83,"['Ciência', 'Arte']"
+84,"['Música', 'Natureza', 'Culinária', 'Arte', 'História']"
+85,['Culinária']
+86,"['Música', 'Futebol']"
+87,"['Pets', 'Viagem', 'Tecnologia', 'Teatro', 'Fotografia']"
+88,"['Culinária', 'Dança', 'Moda']"
+89,"['Moda', 'Política', 'Teatro', 'Dança', 'Fotografia']"
+90,['Arte']
+91,"['Fotografia', 'Culinária', 'Dança']"
+92,['História']
+93,"['História', 'Esportes', 'Dança', 'Futebol']"
+94,"['Cinema', 'Fotografia', 'Futebol', 'Culinária']"
+95,['Cinema']
+96,['Futebol']
+97,"['Culinária', 'História', 'Política']"
+98,"['Futebol', 'Tecnologia']"
+99,"['História', 'Culinária', 'Teatro', 'Viagem', 'Política']"
+100,"['Pets', 'Viagem', 'Cinema', 'Fotografia', 'Esportes']"
